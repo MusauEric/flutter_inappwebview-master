@@ -61,8 +61,7 @@ flutter:
         default_package: flutter_inappwebview_web
       windows:
         default_package: flutter_inappwebview_windows
-      linux:
-        default_package: flutter_inappwebview_linux
+
 
   assets:
     - packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html
